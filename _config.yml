@@ -83,3 +83,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://lifedongbumio-1eba3.netlify.app'
